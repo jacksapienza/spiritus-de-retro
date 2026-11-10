@@ -1,0 +1,65 @@
+{
+  "description": "Handoff ChatGPT -> Claude, 2026-11-10",
+  "files": [
+    {
+      "path": "CRONOLOGIA_CHAT.md",
+      "size_bytes": 7527,
+      "sha256": "fbbda8a55c84da4506f53ec7127383b203ba69e7c1a8f360ce30ba4a74581cc9"
+    },
+    {
+      "path": "LEGGIMI_PER_CLAUDE.md",
+      "size_bytes": 6424,
+      "sha256": "05dc2a6a1c2a51d69ec2816b8ea2872da4f62842c0162685b90702705f1fab67"
+    },
+    {
+      "path": "originali/_main.scd",
+      "size_bytes": 1249,
+      "sha256": "7645725adec52e595bb0ce247f29b442990b1880f72d361a038abe6701e9a6b8"
+    },
+    {
+      "path": "originali/_mainPP.maxpat",
+      "size_bytes": 268617,
+      "sha256": "f7a6028d0b1803ea769cd5924d3dc0b3a399bc6a76d78f4eb67f159b27e19606"
+    },
+    {
+      "path": "originali/agentButtonGUI.scd",
+      "size_bytes": 4884,
+      "sha256": "74362d944fff0a87828770a06113ad845e0a022e2182464bd921b8cab107367c"
+    },
+    {
+      "path": "originali/agentGUI.scd",
+      "size_bytes": 3375,
+      "sha256": "dc57721b65745277bcfd22dd94f4b3a096aa6ed8d8512f6dc56403bc48782352"
+    },
+    {
+      "path": "originali/agentMainRoutine.scd",
+      "size_bytes": 9365,
+      "sha256": "f162847d5220509ad81683ddb9955da77f7ae569915f02c75ad744e90e588aec"
+    },
+    {
+      "path": "originali/agentSynthsGUI.scd",
+      "size_bytes": 12199,
+      "sha256": "ffd42168efae91a5b4e8fffc63550d4efa7cad4d24c071213fdc9d8ecdd5a015"
+    },
+    {
+      "path": "originali/agent_BUS.scd",
+      "size_bytes": 1060,
+      "sha256": "c8ab7def6e337968ad2e5bd8a33f723ac7929d20946fb448d1ca8f88d49a14dc"
+    },
+    {
+      "path": "originali/bach_vincoli.maxpat",
+      "size_bytes": 1265547,
+      "sha256": "2471f6c652b5d55c940dc194a3ac20dc494aa75a21d0cc3910324621f527d0f7"
+    },
+    {
+      "path": "versioni_modificate/agentMainRoutine_safe.scd",
+      "size_bytes": 11772,
+      "sha256": "dab380582d3d6ad53208c6fb8b9193786c48b49e06b7c44af06b5c8872311a29"
+    },
+    {
+      "path": "versioni_modificate/agentSynthsGUI_safe.scd",
+      "size_bytes": 12780,
+      "sha256": "7ad65ac59fe9b8097e4e0452c2bed02cc34eea23403dd9fa1ba59af0199a4c9c"
+    }
+  ]
+}
