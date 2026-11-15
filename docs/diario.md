@@ -8,3 +8,9 @@
 - Gag da sviluppare: bagno occupato/libero.
 - Per ora **nessun nuovo descrittore** nella scena.
 - Proposta in discussione: scena come folio miniato (parziali = rigatura, carta igienica = cartiglio, matrice = cornice a losanghe).
+
+## 2026-11-15
+- Nuovo script `analisi_parziali.py` (filtro su durata, ampiezza e numero di parziali; semplificazione Ramer-Douglas-Peucker in cent e dB), affiancato all'originale `manipolazioneDati.py`.
+- Primo peto analizzato con il nuovo script: `prova_peto07.txt` (export SPEAR, 1739 parziali) → `peto07.txt` (40 parziali).
+- Errore `bach.constraints: variable index 65 out of range` con peto07: risolto.
+- Durante l'analisi Max si è bloccato una volta: da indagare più avanti.

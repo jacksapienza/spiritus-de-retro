@@ -9,52 +9,22 @@
             "modernui": 1
         },
         "classnamespace": "box",
-        "rect": [ 34.0, 100.0, 910.0, 629.0 ],
+        "rect": [ 34.0, 100.0, 876.0, 788.0 ],
         "openinpresentation": 1,
         "boxes": [
             {
                 "box": {
                     "autofit": 1,
                     "forceaspect": 1,
-                    "id": "obj-32",
+                    "id": "obj-5",
                     "maxclass": "fpic",
                     "numinlets": 1,
                     "numoutlets": 1,
                     "outlettype": [ "jit_matrix" ],
-                    "patching_rect": [ 2136.210506916046, 875.7823041280111, 100.0, 66.66666666666666 ],
-                    "pic": "/Users/jacksapienza/Desktop/musica_/progetti_max/bach_vincoli/bubble02.png",
+                    "patching_rect": [ 2130.571409225464, 630.2975863218307, 100.0, 100.0 ],
+                    "pic": "/Users/jacksapienza/Desktop/musica/progetti_max/bach_vincoli/assET.png",
                     "presentation": 1,
-                    "presentation_rect": [ 2277.777886390686, 1399.1439041079507, 3295.652111053467, 2197.1014073689776 ]
-                }
-            },
-            {
-                "box": {
-                    "autofit": 1,
-                    "forceaspect": 1,
-                    "id": "obj-31",
-                    "maxclass": "fpic",
-                    "numinlets": 1,
-                    "numoutlets": 1,
-                    "outlettype": [ "jit_matrix" ],
-                    "patching_rect": [ 2136.210506916046, 944.4489707946777, 100.0, 66.66666666666666 ],
-                    "pic": "/Users/jacksapienza/Desktop/musica_/progetti_max/bach_vincoli/bubble.png",
-                    "presentation": 1,
-                    "presentation_rect": [ 1383.3333992958069, 1800.0000858306885, 1324.2857458591461, 882.8571639060974 ]
-                }
-            },
-            {
-                "box": {
-                    "autofit": 1,
-                    "forceaspect": 1,
-                    "id": "obj-30",
-                    "maxclass": "fpic",
-                    "numinlets": 1,
-                    "numoutlets": 1,
-                    "outlettype": [ "jit_matrix" ],
-                    "patching_rect": [ 2136.210506916046, 807.6734619140625, 100.0, 66.66666666666666 ],
-                    "pic": "/Users/jacksapienza/Desktop/musica_/progetti_max/bach_vincoli/spiritus_cloud.png",
-                    "presentation": 1,
-                    "presentation_rect": [ 669.9999361038208, 1759.3750907182693, 2954.9997181892395, 1969.9998121261597 ]
+                    "presentation_rect": [ 132.0, -8.0, 2420.8332409858704, 2420.8332409858704 ]
                 }
             },
             {
@@ -73,21 +43,6 @@
                 "box": {
                     "autofit": 1,
                     "forceaspect": 1,
-                    "id": "obj-817",
-                    "maxclass": "fpic",
-                    "numinlets": 1,
-                    "numoutlets": 1,
-                    "outlettype": [ "jit_matrix" ],
-                    "patching_rect": [ 2130.9523606300354, 477.9166353940964, 100.0, 111.08764519535374 ],
-                    "pic": "/Users/jacksapienza/Desktop/images_/RKH_utili/rebranding_/13.svg",
-                    "presentation": 1,
-                    "presentation_rect": [ 328.0, 1508.0, 154.16666078567505, 171.26011314311526 ]
-                }
-            },
-            {
-                "box": {
-                    "autofit": 1,
-                    "forceaspect": 1,
                     "id": "obj-826",
                     "maxclass": "fpic",
                     "numinlets": 1,
@@ -96,22 +51,7 @@
                     "patching_rect": [ 2130.9523606300354, 582.6785391569138, 100.0, 44.90291262135923 ],
                     "pic": "/Users/jacksapienza/Desktop/images_/RKH_utili/rebranding_/mic.svg",
                     "presentation": 1,
-                    "presentation_rect": [ 356.0, 2644.0, 458.3333158493042, 205.80500833039147 ]
-                }
-            },
-            {
-                "box": {
-                    "autofit": 1,
-                    "forceaspect": 1,
-                    "id": "obj-11",
-                    "maxclass": "fpic",
-                    "numinlets": 1,
-                    "numoutlets": 1,
-                    "outlettype": [ "jit_matrix" ],
-                    "patching_rect": [ 2034.2105069160461, 629.9166353940964, 100.0, 100.0 ],
-                    "pic": "/Users/jacksapienza/Desktop/musica_/progetti_max/bach_vincoli/assET.png",
-                    "presentation": 1,
-                    "presentation_rect": [ 80.0, 344.0, 2709.999935388565, 2709.999935388565 ]
+                    "presentation_rect": [ 412.0, 2092.0, 458.3333158493042, 205.80500833039147 ]
                 }
             },
             {
@@ -4254,7 +4194,7 @@
                     "parameter_enable": 0,
                     "patching_rect": [ 2028.5714092254639, 744.4444320201874, 67.27272486686707, 387.49428367614746 ],
                     "presentation": 1,
-                    "presentation_rect": [ 2987.036987185478, 1359.259236574173, 224.0, 1242.0 ],
+                    "presentation_rect": [ 3044.0, 800.0, 224.0, 1242.0 ],
                     "saved_attribute_attributes": {
                         "knobcolor": {
                             "expression": "themecolor.live_desktop"
@@ -4275,7 +4215,7 @@
                     "patching_rect": [ 2076.190456390381, 221.428569316864, 164.49836200475693, 166.8077342575235 ],
                     "pic": "/Users/jacksapienza/Desktop/spiritus-de-retro/carta_igienica_2.png",
                     "presentation": 1,
-                    "presentation_rect": [ 2744.0, 868.0, 521.8181631565094, 529.1439041079507 ]
+                    "presentation_rect": [ 2804.0, 312.0, 521.8181631565094, 529.1439041079507 ]
                 }
             },
             {
@@ -4290,52 +4230,7 @@
                     "patching_rect": [ 2028.5714092254639, 477.9166353940964, 100.0, 150.0 ],
                     "pic": "/Users/jacksapienza/Desktop/images_/RKH_utili/rebranding_/Livello 103.png",
                     "presentation": 1,
-                    "presentation_rect": [ 1048.0, 2660.0, 112.49999570846558, 168.74999356269836 ]
-                }
-            },
-            {
-                "box": {
-                    "autofit": 1,
-                    "forceaspect": 1,
-                    "id": "obj-824",
-                    "maxclass": "fpic",
-                    "numinlets": 1,
-                    "numoutlets": 1,
-                    "outlettype": [ "jit_matrix" ],
-                    "patching_rect": [ 2130.9523606300354, 394.58330285549164, 100.0, 81.13207547169812 ],
-                    "pic": "/Users/jacksapienza/Desktop/images_/RKH_utili/rebranding_/Livello 106.png",
-                    "presentation": 1,
-                    "presentation_rect": [ 480.0, 1168.0, 95.83332967758179, 77.75156936105692 ]
-                }
-            },
-            {
-                "box": {
-                    "autofit": 1,
-                    "forceaspect": 1,
-                    "id": "obj-823",
-                    "maxclass": "fpic",
-                    "numinlets": 1,
-                    "numoutlets": 1,
-                    "outlettype": [ "jit_matrix" ],
-                    "patching_rect": [ 2028.5714092254639, 394.58330285549164, 100.0, 81.13207547169812 ],
-                    "pic": "/Users/jacksapienza/Desktop/images_/RKH_utili/rebranding_/Livello 106.png",
-                    "presentation": 1,
-                    "presentation_rect": [ 592.0, 1112.0, 95.83332967758179, 77.75156936105692 ]
-                }
-            },
-            {
-                "box": {
-                    "autofit": 1,
-                    "forceaspect": 1,
-                    "id": "obj-822",
-                    "maxclass": "fpic",
-                    "numinlets": 1,
-                    "numoutlets": 1,
-                    "outlettype": [ "jit_matrix" ],
-                    "patching_rect": [ 2028.5714092254639, 311.2499703168869, 100.0, 81.13207547169812 ],
-                    "pic": "/Users/jacksapienza/Desktop/images_/RKH_utili/rebranding_/Livello 106.png",
-                    "presentation": 1,
-                    "presentation_rect": [ 536.0, 1044.0, 95.83332967758179, 77.75156936105692 ]
+                    "presentation_rect": [ 1104.0, 2100.0, 112.49999570846558, 168.74999356269836 ]
                 }
             },
             {
@@ -4356,7 +4251,7 @@
                     "outlettype": [ "", "", "", "" ],
                     "patching_rect": [ 40.38461673259735, 371.1538585424423, 1955.7692960500717, 1067.30772793293 ],
                     "presentation": 1,
-                    "presentation_rect": [ 920.0, 1496.0, 1945.4543738365173, 863.6362874507904 ],
+                    "presentation_rect": [ 972.0, 940.0, 1945.4543738365173, 863.6362874507904 ],
                     "viewvisibility": 1
                 }
             },
@@ -4372,7 +4267,7 @@
                     "patching_rect": [ 2130.9523606300354, 630.2975863218307, 100.0, 100.0 ],
                     "pic": "/Users/jacksapienza/Desktop/spiritus-de-retro/Opera_senza_titolo 2.png",
                     "presentation": 1,
-                    "presentation_rect": [ 180.0, 592.0, 2313.3332781791687, 2313.3332781791687 ]
+                    "presentation_rect": [ 180.0, 40.0, 2313.3332781791687, 2313.3332781791687 ]
                 }
             },
             {
@@ -4392,25 +4287,8 @@
                     "outlettype": [ "list", "list" ],
                     "parameter_enable": 0,
                     "patching_rect": [ 2561.6278153657913, 583.7209093570709, 148.8372039794922, 695.4627521038055 ],
-                    "presentation": 1,
-                    "presentation_rect": [ 3234.9996914863586, 179.00020956993103, 539.9999485015869, 2874.999725818634 ],
                     "rows": 25,
                     "style": "default"
-                }
-            },
-            {
-                "box": {
-                    "autofit": 1,
-                    "forceaspect": 1,
-                    "id": "obj-22",
-                    "maxclass": "fpic",
-                    "numinlets": 1,
-                    "numoutlets": 1,
-                    "outlettype": [ "jit_matrix" ],
-                    "patching_rect": [ 2136.210506916046, 739.0067952473959, 100.0, 66.66666666666666 ],
-                    "pic": "/Users/jacksapienza/Desktop/musica_/progetti_max/bach_vincoli/spiritus.png",
-                    "presentation": 1,
-                    "presentation_rect": [ 549.9999947547913, 99.99999904632568, 2613.889013528824, 1742.5926756858826 ]
                 }
             }
         ],
@@ -4425,7 +4303,7 @@
             {
                 "patchline": {
                     "destination": [ "obj-24", 0 ],
-                    "midpoints": [ 49.88461673259735, 1295.5229123895988, 2306.714950772468, 1295.5229123895988, 2306.714950772468, 35.23809480667114, 201.1666648387909, 35.23809480667114 ],
+                    "midpoints": [ 49.88461673259735, 1473.025012026541, 2306.714950772468, 1473.025012026541, 2306.714950772468, 35.23809480667114, 201.1666648387909, 35.23809480667114 ],
                     "source": [ "obj-1", 0 ]
                 }
             },
